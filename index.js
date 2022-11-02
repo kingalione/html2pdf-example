@@ -40,3 +40,7 @@ function base64Encode(file) {
   // Close the browser instance
   await browser.close();
 })();
+
+
+// example from:
+//https://stackoverflow.com/questions/59677228/convert-screenshot-to-pdf-in-puppeteer
